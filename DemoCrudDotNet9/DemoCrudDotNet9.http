@@ -1,0 +1,6 @@
+@DemoCrudDotNet9_HostAddress = http://localhost:5030
+
+GET {{DemoCrudDotNet9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
